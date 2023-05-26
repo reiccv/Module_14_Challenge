@@ -12,7 +12,7 @@ The speed of these transactions gave your firm a competitive advantage early on.
 
 * [Tune the Baseline Trading Algorithm](#tune-the-Baseline-Trading-Algorithm)
 
-* [Evaluate a New Machine Learning Classifier](#evaluate-a New-Machine-Learning-Classifier)
+* [Evaluate a New Machine Learning Classifier](#evaluate-a-New-Machine-Learning-Classifier)
 
 * [Create an Evaluation Report](#create-an-Evaluation-Report)
 ## Establish a Baseline Performance
