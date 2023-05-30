@@ -31,21 +31,22 @@ The speed of these transactions gave your firm a competitive advantage early on.
 
 6. Create a predictions DataFrame that contains columns for “Predicted” values, “Actual Returns”, and “Strategy Returns”.
 
-7. Create a cumulative return plot that shows the actual returns vs. the strategy returns. Save a PNG image of this plot. This will serve as a baseline against which to compare the effects of tuning the trading algorithm.
+7. Create a cumulative return plot that shows the actual returns vs. the strategy returns. 
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/1.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/2.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/3.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/4.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/5.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/6.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/7.PNG)
+
 
 ## Tune the Baseline Trading Algorithm
 
@@ -57,13 +58,13 @@ The speed of these transactions gave your firm a competitive advantage early on.
 
 3. Choose the set of parameters that best improved the trading algorithm returns. 
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/8.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/9.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/10.PNG)
 
-![]()
+
 
 ## Evaluate a New Machine Learning Classifier
 
@@ -74,14 +75,13 @@ The speed of these transactions gave your firm a competitive advantage early on.
 3. Backtest the new model to evaluate its performance. 
 
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/11.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/12.PNG)
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/13.PNG)
 
-![]()
 
 ## Create an Evaluation Report
 
-![]()
+![](https://github.com/reiccv/Module_14_Challenge/blob/main/Resources/images/14.PNG)
